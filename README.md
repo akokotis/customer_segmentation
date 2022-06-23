@@ -7,3 +7,6 @@ Leans on qual work by Nielsen Norman Group (https://www.nngroup.com/articles/eco
 ## Method
 - k-means clustering on clickstream data
 - incorporated self-identification from user survey data
+
+## Status
+Unfinished
